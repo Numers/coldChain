@@ -1,0 +1,136 @@
+.logincontent_sja2232 {
+    width:100%;
+
+    .logincontentwrap {
+        width: 1200px;
+        margin: 0 auto;
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+
+    .hw-ls {
+        width:32px;
+        height:32px;
+    }
+
+    .loginform {
+        float: right;
+        width: 49%;
+        border-radius: 5px;
+        background-color: #ffffff;
+        box-shadow: 0px 1px 5px #ddd;
+        max-width: 460px;
+        height: 350px;
+    }
+
+    .header {
+        height: 55px;
+        font-size: 20px;
+        line-height: 55px;
+        border-bottom: 1px solid #e5e5e5;
+        padding-left: 30px;
+    }
+
+    .loginlogo {
+        padding: 20px 0;
+        text-align: center;
+    }
+
+    .logoimg {
+        width: 195px;
+        height: 43px;
+    }
+
+    .loginforminputwrap {
+        margin:0 100px;
+    }
+
+    .login-form-button {
+        width:100%;
+        /*background-color: #72a34f;*/
+        /*border-color:#72a34f;*/
+    }
+
+    /*.ant-btn-primary:hover{*/
+        /*width:100%;*/
+        /*background-color:rgba(138,254,32);*/
+        /*border-color:rgba(138,254,32);*/
+    /*}*/
+
+    /*.ant-btn-primary:focus {*/
+        /*width:100%;*/
+        /*background-color:rgba(138,254,32);*/
+        /*border-color:rgba(138,254,32);*/
+    /*}*/
+
+    .regandforget {
+        padding:0 5px;
+    }
+
+    .forget {
+        float:left;
+        a {
+            color:#232323;
+            text-decoration: none;
+            font-size: 16px;
+        }
+
+        a:hover {
+            color:rgb(114, 163, 79);
+        }
+    }
+
+    .reg {
+        float:right;
+        a {
+            color:#232323;
+            text-decoration: none;
+            font-size: 16px;
+        }
+
+        a:hover {
+            color:rgb(114, 163, 79);
+        }
+    }
+
+    .imgbgls {
+        width: 100%;
+    }
+
+    .imgbg {
+        float: left;
+        margin-top: 50px;
+        width:49%;
+    }
+
+    @media all and (max-width: 1400px) {
+        .logincontentwrap {
+            width:1200px;
+        }
+    }
+
+    @media all and (max-width: 1200px) {
+        .logincontentwrap {
+            width:960px;
+        }
+    }
+
+    @media all and (max-width: 960px) {
+        .logincontentwrap {
+            width:100%;
+            margin:0;
+        }
+
+        .imgbg {
+            display:none;
+        }
+
+        .loginform {
+            width:96%;
+            pading:0 1.6%;
+            float:none;
+            margin:0 auto;
+
+        }
+    }
+}

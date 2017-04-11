@@ -1,0 +1,157 @@
+.TradeAgentDetailContent_shjak22 {
+    padding:10px 0;
+    .statuslist {
+        padding: 10px;
+        background-color: #fff;
+        border-radius: 5px;
+        border: 1px solid #d9d9d9;
+        margin:10px 0;
+        .ant-steps-title {
+            font-size:13px;
+        }
+    }
+
+    .ant-form-explain {
+        display: none;
+    }
+
+    .listpart {
+        margin:10px 0;
+    }
+
+    .header-message {
+        color:#000000;
+        font-size:12px;
+        font-weight:bold;
+    }
+
+    .formWrapP {
+        padding:10px 20px;
+        border-bottom:1px dotted #999999;
+        th,td {
+            text-align:center
+        }
+
+        th {
+            color:#ffffff;
+            background-color: #1DA57A;
+            padding: 10px 8px;
+        }
+
+        td {
+            color: #000000;
+            background-color: #ffffff;
+            padding: 10px 8px;
+        }
+    }
+
+    .list-left {
+        height:30px;
+        line-height:30px;
+        color: #666666;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        font-size: 12px;
+    }
+
+    .list-right {
+        height:30px;
+        line-height:30px;
+        overflow: hidden;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        font-size: 12px;
+    }
+
+    .logonew {
+        width:250px;
+        height:170px;
+        text-align:center;
+        line-height:170px;
+        border-radius:5px;
+        margin:0 auto;
+        margin-bottom:15px;
+        overflow:hidden;
+        border-radius:5px;
+
+        img {
+                width:100%;
+                height:100%;
+            }
+    }
+
+    .uploadArea {
+        line-height:30px;
+        margin-bottom:20px;
+    }
+
+    .input-file {
+        position: relative;
+        width:40%;
+        height:30px;
+        border-radius:5px;
+        background-color: #fafafa;
+        line-height: 30px;
+        text-align: center;
+        margin: 0 auto;
+        color:#232323;
+        font-size:12px;
+        border:1px solid #d9d9d9;
+        cursor: pointer;
+        float:left;
+        margin-right:10px;
+    }
+
+    .input-file:hover {
+
+    }
+
+    .input-file-file {
+        opacity: 0;
+        width:90px;
+        height:30px;
+        position:absolute;
+        left: 0;
+        top:0;
+        cursor: pointer;
+    }
+
+    .tablearea {
+        margin-bottom:20px;
+    }
+
+    .btn-wrap-img {
+        margin-top: 30px;
+        text-align: center;
+    }
+
+    .mls {
+        margin:10px 0;
+    }
+
+    .submitci {
+        margin:10px 0;
+        text-align: center;
+    }
+
+    .ant-steps .ant-steps-main {
+        display: block;
+    }
+
+    .BreadcrumbWrap {
+        font-size:14px;
+        margin:5px 0;
+    }
+
+    .border-ls {
+        border:1px solid #ddd;
+        border-radius:5px;
+    }
+
+    @media all and (max-width: 900px) {
+        .statuslist {
+            display:none;
+        }
+    }
+}

@@ -1,0 +1,39 @@
+.pickcenterContent_hdjak239 {
+    text-align:right;
+    width:100%;
+    padding-top:20px;
+    padding-right:40px;
+    .tihuodan {
+        width:12px;
+        height:12px;
+    }
+    .pickcenterTable {
+        margin-top:15px;
+    }
+
+    .pickcenterTable {
+        background-color: #ffffff;
+        padding:10px;
+        border-radius:5px;
+        th,td {
+            text-align: center;
+        }
+
+        th {
+            background-color: #1DA57A;
+            color: #ffffff;
+            padding:10px 8px;
+        }
+
+        td {
+            color:#666666;
+            padding:10px;
+        }
+    }
+
+    .ls-in-r {
+        display: inline-block;
+        width:100%;
+        text-align: right;
+    }
+}

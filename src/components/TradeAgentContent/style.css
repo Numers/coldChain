@@ -1,0 +1,33 @@
+.TradeAgentContent_shjak22 {
+
+    padding:10px 0;
+
+    .btn-sub {
+        margin-right:10px;
+    }
+
+    .table {
+        margin-top:10px;
+        th,td {
+            text-align: center;
+        }
+
+        th {
+            color:#ffffff;
+            background-color: #1DA57A;
+            padding:10px 8px;
+        }
+
+        td {
+            background-color: #ffffff;
+            color:#000000;
+            padding:10px 8px;
+        }
+    }
+
+    .font-r-l {
+        display: inline-block;
+        width:100%;
+        text-align: center;
+    }
+}

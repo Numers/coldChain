@@ -1,0 +1,137 @@
+
+
+.wrap_for_coldChain {
+    width:100%;
+    position:relative;
+    .wrap_for_coldChain_wrap {
+        width:100%;
+        padding:0px 0px 30px 0px;
+    }
+}
+
+.leftnav_csnsj2131 {
+    float:left;
+    margin-right:20px;
+
+    .left-wrap {
+        background-color: #ffffff;
+        border-radius:5px;
+    }
+
+    .left-list {
+        width:200px;
+        height:70px;
+        line-height: 70px;
+        text-align:center;
+
+        a {
+            color:#232323;
+            font-size:15px;
+        }
+
+        a:hover {
+            text-decoration: none;
+        }
+
+        .leftnav_active {
+            color:#036646;
+        }
+
+    }
+
+    .left-size {
+        width:16px;
+        height:16px;
+        margin-right: 8px;
+    }
+}
+
+.leftnav_sjsld {
+    position:fixed;
+    left:0;
+    top:0px;
+    width:200px;
+    float:left;
+    padding-top: 40px;
+    border-right:1px solid #e9e9e9;
+    z-index:33;
+    transition: left .5s;
+    height:100%;
+    background-color:#ffffff;
+
+    .inleft {
+        width:100%;
+        height:50px;
+        line-height: 50px;
+        background-color: #ffffff;
+        text-align: right;
+    }
+
+    .navleftimg {
+        width:24px;
+        height:24px;
+        margin-right:20px;
+        cursor:pointer;
+    }
+
+    .link-a {
+        color:#232323;
+    }
+
+    .ant-menu-submenu-title {
+        color:#232323;
+        font-weight: bold;
+    }
+}
+
+.leftnav_sjsld_act {
+    left:-240px;
+}
+
+.right-wrap {
+    width:100%;
+    padding-left:240px;
+    transition:all .5s;
+}
+
+.right-wrap-act {
+    padding-left:40px;
+}
+
+.fix-left {
+    width:40px;
+    height: 100%;
+    background-color: rgb(241,241,241);
+    position: fixed;
+    z-index:32;
+    text-align: center;
+    left:0;
+    top:33px;
+}
+
+.navright {
+    width:20px;
+    height:20px;
+    margin-top:20px;
+    cursor:pointer;
+}
+
+
+
+@media all and (max-width: 900px) {
+    .leftnav_sjsld {
+        display:none;
+    }
+
+    .smallshownav {
+        display:block;
+    }
+
+    .right-wrap {
+        padding-left:40px;
+    }
+
+    .fix-left {
+        display:none;
+    }
+}

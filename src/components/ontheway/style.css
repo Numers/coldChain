@@ -1,0 +1,31 @@
+.onthewayContent_hdjak239 {
+    text-align:right;
+    width:100%;
+    padding-top:20px;
+    padding-right:40px;
+    .tihuodan {
+        width:12px;
+        height:12px;
+    }
+
+    .onthewayTable {
+        margin-top:15px;
+        background-color: #ffffff;
+        padding:10px;
+        border-radius:5px;
+        th,td {
+            text-align: center;
+        }
+
+        th {
+            background-color: #1DA57A;
+            color: #ffffff;
+            padding:10px 8px;
+        }
+
+        td {
+            color:#666666;
+            padding:6px;
+        }
+    }
+}

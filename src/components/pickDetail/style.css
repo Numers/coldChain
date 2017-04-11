@@ -1,0 +1,369 @@
+.pickdetailContent_hdjak239 {
+    width: 100%;
+    margin-top:20px;
+    padding-right:40px;
+    .pickdetailContentWrap {
+        width:100%;
+        margin:0 auto;
+        padding-bottom:60px;
+    }
+
+    .mianbaotopNav {
+        width:100%;
+        margin-bottom: 15px;
+    }
+
+    .mianbaotopNavWrap {
+        position: relative;
+        border-radius: 5px;
+    }
+
+    /*.goback {*/
+        /*position:absolute;*/
+        /*right:20px;*/
+        /*top:50%;*/
+        /*margin-top:-12.5px;
+        /*width:80px;*/
+        /*height:25px;*/
+        /*line-height: 25px;*/
+        /*text-align: center;*/
+        /*border-radius: 5px;*/
+        /*background-color: #1DA57A;*/
+        /*color: #ffffff;*/
+        /*a {*/
+            /*display:block;*/
+            /*color: #ffffff;*/
+        /*}*/
+
+        /*a:hover {*/
+            /*text-decoration: none;*/
+        /*}*/
+
+        /*&:hover {*/
+            /*background-color: #00a854;*/
+        /*}*/
+    /*}*/
+
+    .statelist {
+        width:100%;
+        margin-bottom: 15px;
+    }
+
+    .statelistWrap {
+        padding:15px;
+        background-color: #ffffff;
+        border-radius:5px;
+        border: 1px solid #e5e5e5;
+    }
+
+    .uploadWaterbills {
+        width:100%;
+        margin-bottom: 15px;
+    }
+
+    .uploadWaterbillsWrap {
+        background-color: #ffffff;
+        border-radius:5px;
+        border: 1px solid #e5e5e5;
+    }
+
+    .CargoInformationContent {
+        width:100%;
+        margin-bottom: 15px;
+        th,td {
+            text-align: center;
+        }
+
+        th {
+            background-color: #1DA57A;
+            color:#fff;
+            padding: 8px 10px;
+        }
+
+        td {
+            padding: 10px;
+            color:#232323;
+        }
+    }
+
+    .CargoInformationContentWrap {
+        background-color: #ffffff;
+        border-radius:5px;
+        border: 1px solid #e5e5e5;
+    }
+
+    .uploadheader {
+        padding:10px;
+        font-size: 12px;
+        font-weight: bold;
+        color: #0d6547;
+        border-bottom: 1px solid #e5e5e5;
+    }
+
+    .CargoInformationheader {
+        padding:10px;
+        font-size: 12px;
+        font-weight: bold;
+        color: #0d6547;
+        border-bottom: 1px solid #e5e5e5;
+    }
+
+    .CargoInformationbody {
+        width:100%;
+    }
+
+    .CargoInformationbodywrap {
+        padding:20px 20px 10px 20px;
+    }
+
+    .uploadcontent {
+        width:100%;
+        position:relative;
+    }
+
+    .uploadcontentWrap {
+        padding:20px 40px;
+    }
+
+    .list_li {
+        margin-bottom:10px;
+        width:600px;
+    }
+
+    .item_li {
+        float:left;
+        width:200px;
+        font-size: 12px;
+        font-weight: bold;
+    }
+
+    .item_li_r {
+        float:left;
+        width:390px;
+        font-size: 12px;
+    }
+
+    .color_sp {
+        float: left;
+        color:#f04134;
+    }
+
+    .check_detail {
+        float: left;
+        margin-left:10px;
+        cursor: pointer;
+        text-decoration: underline;
+    }
+
+    .mt_sp {
+        margin-top: 30px;
+    }
+
+    .sp_mt_l {
+        margin-left: 10px;
+        font-weight: normal;
+    }
+
+    .uploadArea {
+        position:absolute;
+        right:40px;
+        top:20px;
+        width:500px;
+    }
+
+    .uploadinput {
+        position:relative;
+        z-index:0;
+        width:150px;
+        height:150px;
+        line-height: 150px;
+        margin:0 auto;
+        border: 1px dashed #d9d9d9;
+        border-radius: 6px;
+        cursor: pointer;
+        text-align: center;
+
+    }
+
+    .uploadImg {
+        width:24px;
+        height:24px;
+    }
+
+    .uploadinputAbs {
+        opacity: 0;
+        position: absolute;
+        left:0;
+        top:0;
+        width:100%;
+        height:100%;
+        z-index:2;
+        cursor: pointer;
+    }
+
+    .uploadimgAbs {
+        position: absolute;
+        left:0;
+        top:0;
+        width:100%;
+        height:100%;
+        z-index:1;
+    }
+
+    .uploadbutton {
+        width:80px;
+        height:30px;
+        background-color: #1DA57A;
+        margin:0 auto;
+        margin-top:20px;
+        border-radius: 5px;
+        line-height: 30px;
+        text-align: center;
+        color:#ffffff;
+        cursor:pointer;
+    }
+
+    .beforeload {
+        margin-top:20px;
+        font-size:12px;
+        color:#bebebe;
+    }
+
+    .payformess {
+        ul {
+            width:49%;
+            float: left;
+        }
+        li {
+            width:100%;
+            float: left;
+            margin:5px 0;
+        }
+    }
+
+    .mess_left {
+        float: left;
+        width:180px;
+        text-align: right;
+        font-weight: bold;
+        font-size:12px;
+    }
+
+    .mess_right {
+        margin-left:20px;
+        float: left;
+        text-align: left;
+        font-size:12px;
+    }
+
+    .gotopay {
+        width: 280px;
+        height: 35px;
+        background-color: rgb(115,162,83);
+        margin: 0 auto;
+        margin-top: 40px;
+        line-height: 35px;
+        text-align: center;
+        font-size: 16px;
+        color: #ffffff;
+        border-radius: 5px;
+        cursor: pointer;
+    }
+
+    /*
+    *  payfor css
+    */
+        .payforconfirm {
+            position:fixed;
+            left:0;
+            top:0;
+            z-index:222;
+            width:100%;
+            height:100%;
+            background-color: rgba(0,0,0,.5);
+            display: none;
+        }
+
+        .confirmToast {
+            position:absolute;
+            left:50%;
+            top:50%;
+            width:450px;
+            height:240px;
+            margin-left:-225px;
+            margin-top: -120px;
+            background-color: #ffffff;
+            border-radius: 5px;
+        }
+
+        .showpayforclass {
+            display: block;
+        }
+
+        .confirmToast-h {
+            position:relative;
+            height:50px;
+            border-bottom:1px solid rgb(229,229,229);
+            text-align: center;
+            line-height: 50px;
+            font-size: 16px;
+            color:#333333;
+            font-weight: bold;
+        }
+
+        .confirmToast-b {
+            padding: 35px 15px;
+        }
+
+        .confirmToast-b > p {
+            text-align:center;
+            color:#323232;
+            font-size:12px;
+            margin:10px 0;
+        }
+
+        .btn-payfor {
+            margin-top:35px;
+        }
+
+        .btn-payfor-wrap {
+            width:280px;
+            margin:0 auto;
+            overflow:hidden;
+        }
+
+
+        .payfor-l-r {
+            width:120px;
+            height:25px;
+            border-radius: 3px;
+            background-color: rgb(115,162,83);
+            color:#ffffff;
+            font-size:12px;
+            line-height: 25px;
+            text-align:center;
+            cursor: pointer;
+        }
+
+        .payfor-left {
+            float: left;
+        }
+
+        .payfor-right {
+            float: right;
+        }
+
+        .closeproblem {
+            position:absolute;
+            right: 5px;
+            top:10px;
+            color:rgb(150,185,126);
+            font-size:18px;
+            cursor: pointer;
+            padding: 0 15px;
+            z-index: 2;
+        }
+    /*
+    *  payfor css
+    */
+}

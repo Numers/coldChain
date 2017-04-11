@@ -1,0 +1,213 @@
+.mypickContent_daskn3248 {
+    width:100%;
+    padding-right:40px;
+    padding-top:20px;
+    .mypickContent_wrap {
+
+    }
+
+    .datetogo {
+        border-radius:5px;
+        border:1px solid #e5e5e5;
+        background-color: #ffffff;
+        margin-bottom:20px;
+    }
+
+    .datetogowrap {
+        padding:10px 10px;
+    }
+
+    .typename {
+        font-size: 12px;
+        font-weight: bold;
+        color: #0d6547;
+    }
+
+    .datebody {
+        width:100%;
+        margin-top:10px;
+    }
+
+    .tablewrap {
+
+        th {
+            text-align:center;
+        }
+
+        td {
+            text-align:center;
+        }
+
+    }
+
+    .datebodywrap {
+        width:100%;
+        margin:0 auto;
+        height:84px;
+        line-height: 84px;
+        text-align:center;
+        background: #fafafa;
+    }
+
+    .foodmessage {
+        min-height:180px;
+        border-radius:5px;
+        border:1px solid #e5e5e5;
+        background-color: #ffffff;
+        margin-bottom:20px;
+    }
+
+    .foodmessagewrap {
+        padding:20px 20px;
+    }
+
+    .formdata {
+        margin-top:10px;
+
+        th,td {
+            text-align:center;
+
+        }
+
+        th {
+            background-color: #1DA57A;
+            color: #ffffff;
+            padding:10px 8px;
+        }
+
+        td {
+            color:#666666;
+            padding:6px;
+        }
+    }
+
+    .thedriver {
+        min-height:180px;
+        border-radius:5px;
+        border:1px solid #e5e5e5;
+        background-color: #ffffff;
+        margin-bottom:20px;
+    }
+
+    .thedriverwrap {
+        padding:10px 20px 0px 20px;
+    }
+
+    .thedriveraction {
+        margin-top:10px;
+    }
+
+    .driveaction {
+        width:100%;
+        .driveactionwrap {
+            width:100%;
+            margin:0 auto;
+            overflow:hidden;
+            background-color: #f2f2f2;
+            padding:20px 70px 0 90px;
+        }
+    }
+
+    .getdrivelist {
+        width: 200px;
+        height: 205px;
+        border-radius: 5px;
+        background: #fff;
+        text-align: center;
+        margin-right: 30px;
+        margin-bottom: 20px;
+    }
+
+    .getdrivelistwrap {
+        height: 100%;
+        position:relative;
+        padding:20px;
+        cursor:pointer;
+        .ant-form-item {
+            margin-bottom:15px;
+        }
+
+    }
+
+    .getdrivelist {
+        float:left;
+    }
+
+    .add_driver {
+
+        position:absolute;
+        left:50%;
+        top:50%;
+        width:120px;
+        height:60px;
+        margin-top:-30px;
+        margin-left:-60px;
+    }
+
+    .add_driver_text {
+        color:#aaaaaa;
+        font-size:12px;
+        margin-top:10px;
+    }
+
+    .deletewrap {
+        position:absolute;
+        right:5px;
+        top:5px;
+        width:16px;
+        height: 16px;
+    }
+
+    .deleteImg {
+        width:16px;
+        height: 16px;
+    }
+
+    .dateimg {
+        width:18px;
+        height:20px;
+        margin-right:10px;
+    }
+
+    .labelimg {
+        width:15px;
+        height:15px;
+    }
+
+    .submitbtn {
+        margin:15px 0;
+        text-align:center
+    }
+
+    .caoculate {
+        margin-top:10px;
+    }
+
+    .late-button {
+        float:right;
+        margin-right:20px;
+    }
+
+    .priceall {
+        color: red;
+        margin-top:10px;
+    }
+
+    .chakan {
+        cursor:pointer;
+        text-decoration: underline;
+        margin-left:10px;
+    }
+
+    @media all and (max-width: 650px) {
+
+        .ant-calendar-picker {
+            width:120px!important;
+        }
+
+        .driveactionwrap {
+            padding:25px!important;
+        }
+
+    }
+}

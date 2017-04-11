@@ -1,0 +1,9 @@
+.reg_hsajd2949 {
+    width:100%;
+    padding-top:40px;
+    .reg_wrap {
+        width:500px;
+        margin:0 auto;
+        overflow: hidden;
+    }
+}

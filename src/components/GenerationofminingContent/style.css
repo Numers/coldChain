@@ -1,0 +1,364 @@
+.GenerationofminingContent_jwoeq {
+    padding-right:40px;
+    padding-top:20px;
+
+    .bread {
+        background-color: rgb(241,241,241);
+        border-radius:5px;
+        margin-bottom:10px;
+        position:relative;
+    }
+
+    .caogaox {
+        position:absolute;
+        right:80px;
+        top:0px;
+        font-size: 12px;
+    }
+    
+    .messageCountClass{
+        color: #f5252c;
+    }
+
+    .sendformwrap {
+        width:100%;
+    }
+
+    .header-message {
+        color: #444;
+        font-size: 12px;
+        font-weight: bold;
+        position:relative;
+        margin:0 0 8px 0;
+    }
+
+    .list-m-qwer {
+        position:absolute;
+        right:10px;
+        top:0px;
+    }
+
+    .TheOrder {
+        padding-bottom: 10px;
+    }
+
+    .formWrapP {
+        padding:5px 10px 5px 10px;
+        border-bottom:1px dotted #999999;
+
+        td,th {
+            text-align: center;
+        }
+        
+        td {
+            background: #ffffff;
+            color: #000000;
+            padding:8px 8px;
+        }
+        
+        th {
+            font-size:12px;
+            color: #ffffff;
+            background-color: #1DA57A;
+            padding:10px 8px;
+            font-weight: normal;
+        }
+    }
+
+    .formWrapPSp {
+        padding:10px 10px;
+
+        .ant-form-item {
+            margin-bottom:0;
+        }
+
+        .ant-form-item-control {
+            height:auto
+        }
+    }
+
+    .ant-form-item-with-help {
+        margin-bottom: 6px;
+    }
+
+    .ant-form-item {
+        margin-bottom: 6px;
+    }
+
+    .formWrapP-slp {
+
+        .ant-form-item {
+            margin-bottom:6px;
+        }
+    }
+
+    .uploadArea {
+        width:100%;
+    }
+
+    .showUploadImgArea {
+        width:100%;
+        margin-top:15px;
+    }
+
+    .input-file {
+        position: relative;
+        width:90px;
+        height:30px;
+        border-radius:5px;
+        line-height: 30px;
+        text-align: center;
+        margin: 0 auto;
+        color:#232323;
+        font-size:14px;
+        cursor: pointer;
+    }
+
+    .input-add {
+        background-color: #fafafa;
+        border:1px solid #d9d9d9;
+        font-size: 12px;
+    }
+
+    .input-file-file {
+        opacity: 0;
+        width:90px;
+        height:30px;
+        position:absolute;
+        left: 0;
+        top:0;
+        cursor: pointer;
+    }
+
+    .uploadText {
+        height:30px;
+        line-height: 30px;
+        font-size:12px;
+    }
+
+    .list-m {
+        height:30px;
+        line-height: 30px;
+        font-size: 12px;
+    }
+
+    .OpenToSee {
+        position:fixed;
+        left:0;
+        top:0;
+        z-index:999;
+        width:100%;
+        height:100%;
+        background-color: rgba(0,0,0,.3);
+    }
+
+    .OpenToSeeWrap {
+        position:absolute;
+        left:50%;
+        top:50%;
+        width:800px;
+        height:450px;
+        margin-left:-400px;
+        margin-top:-250px;
+        background-color: #ffffff;
+        border-radius:5px;
+        overflow: hidden;
+    }
+
+    .title-wrap {
+        position: relative;
+        font-size:14px;
+        color:#232323;
+        text-align: center;
+        padding:10px;
+    }
+
+    .abs-title {
+        position:absolute;
+        right:50px;
+        top:12px;
+        font-size:12px;
+        text-decoration: underline;
+        cursor:pointer;
+    }
+
+    .body-table {
+        width:100%;
+        height:350px;
+        overflow: auto;
+    }
+
+    .ddandrz {
+        margin: 20px 10px;
+        border-top: 1px solid #d9d9d9;
+        border-left: 1px solid #d9d9d9;
+    }
+
+    .b-t {
+        height:25px;
+        line-height: 25px;
+        text-align: center;
+        border-right: 1px solid #d9d9d9;
+        border-bottom: 1px solid #d9d9d9;
+        background-color: #eee;
+    }
+
+    .b-b {
+        height:25px;
+        line-height: 25px;
+        text-align: center;
+        border-right: 1px solid #d9d9d9;
+        border-bottom: 1px solid #d9d9d9;
+        overflow: hidden;
+    }
+
+    .shanp {
+        margin:20px 10px;
+        th,td {
+            text-align: center;
+        }
+
+        th {
+            padding:10px 8px;
+        }
+
+        td {
+            padding:8px;
+        }
+    }
+
+    .rzall {
+        margin:20px 10px;
+    }
+
+    .rzall-b {
+        height:25px;
+        line-height: 25px;
+        text-align: right;
+    }
+
+    .rzall-b2 {
+        height:25px;
+        line-height: 25px;
+        text-align: left;
+        color:#97060c;
+    }
+
+    .bottom-btn {
+        padding: 10px;
+        text-align: center;
+    }
+
+    .qx {
+        display:inline-block;
+        width:100px;
+        height:30px;
+        line-height: 30px;
+        text-align: center;
+        border-radius: 5px;
+        background-color: #666666;
+        margin-right:15px;
+        color: #ffffff;
+        box-shadow:0 2px 5px #999;
+        cursor:pointer;
+    }
+
+    .tj {
+        display:inline-block;
+        width:100px;
+        height:30px;
+        line-height: 30px;
+        text-align: center;
+        border-radius: 5px;
+        background-color: #26ab28;
+        color: #ffffff;
+        box-shadow:0 2px 5px #999;
+        cursor:pointer;
+    }
+
+    .cz-img {
+        width: 18px;
+        height: 18px;
+        cursor: pointer;
+        margin: 0 5px;
+    }
+
+    .returnimgwrap {
+        width:250px;
+        height:150px;
+        margin:0 auto;
+        margin-bottom:20px;
+        overflow:hidden;
+        border-radius:5px;
+        overflow:hidden;
+        line-height:150px;
+        text-align:center;
+        cursor:pointer;
+        img {
+            width:100%;
+            height:100%;
+            background-color:#ffffff;
+        }
+    }
+
+    .border-ls {
+        border:1px solid #ddd;
+        border-radius:5px;
+    }
+
+    .ant-table-fixed-right {
+        box-shadow: -6px 0 4px -5px rgba(0, 0, 0, 0.2);
+    }
+
+    .select-wrap-in {
+        position:relative;
+    }
+
+    .abs-select {
+        position:absolute;
+        width:80px;
+        height:20px;
+        line-height: 20px;
+        left: 65%;
+        top:6px;
+        font-size:12px;
+    }
+
+    .ant-form-item-label {
+        text-align:left;
+    }
+
+    label {
+        color:#232323;
+    }
+
+    .header-message-ls {
+        position:absolute;
+        right:130px;
+        top:0;
+        cursor: pointer;
+        font-weight:bold;
+        a {
+            font-size: 12px;
+            color: #333333;
+        }
+    }
+
+    .header-message-l {
+        font-size: 12px;
+        color:#1DA57A;
+        position:absolute;
+        right:30px;
+        top:50%;
+        margin-top:-15px;
+        cursor: pointer;
+    }
+
+    .formWrapP-LE {
+        padding-bottom:10px;
+    }
+
+    .ant-form-explain {
+        display: none;
+    }
+}

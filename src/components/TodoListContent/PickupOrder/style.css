@@ -1,0 +1,44 @@
+.PickupOrderContentWrap{
+    width:100%;
+    padding:20px 40px 0 0;
+    .SearchOrderWrap {
+        .SearchOrderContentWrap {
+            .btn-sub{
+                margin-right: 10px;
+            }
+        }
+
+        .SearchOrderContentWrap label{
+            color: #232323;
+        }
+    }
+
+    .PickupOrderTableWrap{
+        margin:15px 0;
+        padding:0 15px 0 0;
+        .PickupOrderTableContentWrap{
+            td,th {
+                text-align: center;
+            }
+
+            th {
+                background-color: #1DA57A;
+                color:#ffffff;
+                padding:10px 8px;
+            }
+
+            td {
+                background-color: #ffffff;
+                color:#000000;
+                padding:9px;
+            }
+        }
+    }
+
+    /*@media all and (max-width: 900px){*/
+        /*.PickupOrderContentWrap{*/
+            /*width:1000px;*/
+        /*}*/
+    /*}*/
+}
+
